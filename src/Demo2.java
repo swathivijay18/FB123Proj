@@ -6,6 +6,8 @@ public class Demo2 {
 		System.out.println("xyz");
 		
 		System.out.println("abc");
+		
+		System.out.println("123");
 
 	}
 
